@@ -4,6 +4,10 @@
 4 add four line
 5 add five line
 6 add six line
+<<<<<<< HEAD
 7 add seven line
 8 add eight line
 9 add nine line
+=======
+7 add seven line
+>>>>>>> parent of 87db538... add eight line
